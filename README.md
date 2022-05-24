@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudeshna 
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning MERN stack.
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently working on developing React-js skill.
 - 💞️ I’m looking to collaborate on any web projects
 - 📫 How to reach me? You can email me @sudeshnapandey8@gmail.com
 
